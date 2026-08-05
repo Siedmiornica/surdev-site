@@ -44,6 +44,6 @@ jobs:
           username: ${{ secrets.VPS_USER }}
           key: ${{ secrets.VPS_SSH_KEY }}
           script: |
-            sudo docker pull ghcr.io/siedmiornica/surdev-site:latest
+            docker pull ghcr.io/siedmiornica/surdev-site:latest
             cd ~/apps/surdev-site
             sudo docker compose up -d
