@@ -13,3 +13,9 @@ services:
       NODE_ENV: production
     security_opt:
       - no-new-privileges:true
+    networks:
+      - web
+
+networks:
+  web:
+    external: true
