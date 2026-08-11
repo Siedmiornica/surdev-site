@@ -1,5 +1,5 @@
 ---
-title: "Domena, nginx i HTTPS"
+title: "#7: Domena, nginx i HTTPS"
 description: "Od gołego IP:port do surdev.pl z certyfikatem SSL."
 date: "2026-08-11"
 ---
