@@ -1,5 +1,5 @@
 ---
-title: "#8 Grafana i monitoring VPS"
+title: "Grafana i monitoring VPS"
 description: "Node Exporter, Prometheus i Grafana pod własną subdomeną, plus lekcja o Docker volumes."
 date: "2026-08-12"
 ---
